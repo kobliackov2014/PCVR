@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - projectile
+  - FxTemporaire
+  - Leg
+  - SnapCube
+  - Arm
+  - SnapCylinder
+  - Saucers
+  - ExcludeTeleport
+  - Torso
+  - Head
+  - SnapCuller
+  - RAM
+  - tag_RAM
+  - Ram/Ram_cube
+  - Ram/Ram_Cylinder
+  - Culler/CubeCuller
+  - Culler/CyllinderCuller
+  - CPU/CPU_1
+  - CPU/CPU_2
+  - ROM/CubeROM
+  - ROM/CylinderROM
+  - GPU/GPU_1
+  - GPU/GPU_2
+  - PSU/PSU_1
+  - PSU/CylinderPSU
+  - Connectors/GpuConnector8pin
+  - Connectors/CPUConnector8pin
+  - Connectors/MBConnectors24pin
+  - GPU/GPU Gigabyte2060 WINDFORCE OC 6G
+  - Ram/Oper_plata
+  - Screew
+  - Case/Wall
+  - Case/Case
+  - PSU/EVGA
+  - ROM/HDD
+  - Case/WallLeft
+  - Case/WallRight
+  - Case/WallPSU
+  - Culler/DarkRock4
+  - MB/Asus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
